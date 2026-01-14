@@ -2,6 +2,8 @@
 
 A defensive, educational web application that analyzes URLs for potential phishing indicators. This tool performs **static URL string analysis only** - it does NOT fetch remote content (SSRF prevention).
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open-blue?style=for-the-badge)](https://phish-detector-e2oo.onrender.com)
+
 ## Features
 
 - **URL Structure Analysis**: Examines URL components for common phishing patterns
